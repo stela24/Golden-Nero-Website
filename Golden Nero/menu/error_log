@@ -1,0 +1,6 @@
+[25-Oct-2016 14:16:23 Europe/Helsinki] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/goldenne/public_html/new/menu/mobile-menu.php on line 421
+[25-Oct-2016 14:16:23 Europe/Helsinki] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/goldenne/public_html/new/menu/mobile-menu.php on line 421
+[25-Oct-2016 14:16:23 Europe/Helsinki] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/goldenne/public_html/new/menu/mobile-menu.php on line 421
+[02-Nov-2016 17:31:07 Europe/Helsinki] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/goldenne/public_html/new/menu/mobile-menu.php on line 421
+[02-Nov-2016 17:31:07 Europe/Helsinki] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/goldenne/public_html/new/menu/mobile-menu.php on line 421
+[02-Nov-2016 17:31:07 Europe/Helsinki] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/goldenne/public_html/new/menu/mobile-menu.php on line 421

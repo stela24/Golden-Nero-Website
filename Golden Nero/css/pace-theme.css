@@ -1,0 +1,33 @@
+.pace.pace-inactive {
+  display: none;
+}
+
+.pace {
+
+  z-index: 20000000;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #fff url('../images/loader-home.gif') no-repeat center center;
+}
+/*.pace .pace-progress:before {
+  content: attr(data-progress-text);
+  text-align: center;
+  color: #000;
+  border-radius: 50%;
+  font-size: 14px;
+  font-weight: 100;
+  line-height: 1;
+  padding: 20% 0 7px;
+  width: 50%;
+  height: 40%;
+  margin: 10px 0 0 30px;
+  display: block;
+  z-index: 999;
+  position: absolute;
+}*/
